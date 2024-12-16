@@ -161,7 +161,7 @@ Google Gemini API key
 
 - **APIs**
   - OpenWeatherMap
-  - Google Gemini-2.0-flash-exp
+  - Google Gemini-1.5-flash
 
 ---
 

@@ -383,7 +383,7 @@ def get_ai_insights(data_description, analysis_type):
 
     try:
         model = genai.GenerativeModel(
-            model_name="gemini-2.0-flash-exp",
+            model_name="gemini-1.5-flash",
             generation_config=generation_config,
         )
 
